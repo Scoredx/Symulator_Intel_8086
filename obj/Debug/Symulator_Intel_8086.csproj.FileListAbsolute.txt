@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.Properties.Resources.resources
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Symulator_Intel_8086\bin\Debug\Symulator_Intel_8086.exe.config
+C:\Users\filip\source\repos\Symulator_Intel_8086\bin\Debug\Symulator_Intel_8086.exe
+C:\Users\filip\source\repos\Symulator_Intel_8086\bin\Debug\Symulator_Intel_8086.pdb
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.Form1.resources
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.exe
+C:\Users\filip\source\repos\Symulator_Intel_8086\obj\Debug\Symulator_Intel_8086.pdb
